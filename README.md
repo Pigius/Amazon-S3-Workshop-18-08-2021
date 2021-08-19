@@ -12,4 +12,4 @@ The form registration could be found [here](https://www.danielaniszkiewicz.com/a
 
 This repository contains materials for conducting the workshop. Mainly a presentation with the most important information. The workshop will go over this step by step, and then we will work together to create S3 buckets. 
 
-There will be a summary on the blog after the workshop.
+The summary from workshop could be found [here](https://www.danielaniszkiewicz.com/amazon-s3-workshop-summary.html).
